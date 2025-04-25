@@ -7,7 +7,7 @@ Sabdartha is a lightweight browser extension that lets you instantly fetch the m
 ## ⚙️ Features
 
 - 📚 Instant definitions from DictionaryAPI
-- 🔊 Audio pronunciation (if available)
+- 🔊 Audio pronunciation 
 - 🌙 Dark mode popup for less eye strain
 - 🖱️ Smooth mouse interaction (scrollable popup)
 - ❌ Graceful fallback if word not found
@@ -16,7 +16,7 @@ Sabdartha is a lightweight browser extension that lets you instantly fetch the m
 
 ## 🧩 Supported Browsers
 
-- ✅ Chrome
+- ✅ Chrome ( Separate codeBase ) 
 - ✅ Firefox
 - ✅ Opera (with some permission tweaks)
 - 🛠️ Edge (not tested yet)
@@ -26,19 +26,20 @@ Sabdartha is a lightweight browser extension that lets you instantly fetch the m
 ## 📦 Installation
 
 ### 🔹 For Chrome / Opera
-
+( can't really pay $5 for this lame extension ) 
 1. Go to `chrome://extensions` or `opera://extensions`
 2. Enable **Developer mode**
 3. Click **Load Unpacked**
 4. Select the root folder of this project (where `manifest.json` is)
 5. Done!
 
-### 🔸 For Firefox
+### 🔸 For Firefox 
 
+( we've uploaded on firefox addons but waiting for approval ) 
 1. Go to `about:debugging#/runtime/this-firefox`
 2. Click **Load Temporary Add-on**
 3. Choose the `manifest.json` file
-4. (For permanent publishing, upload the zip to [Firefox Add-ons](https://addons.mozilla.org/en-US/developers/))
+
 
 ---
 
