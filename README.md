@@ -2,8 +2,6 @@
 
 Sabdartha is a lightweight browser extension that lets you instantly fetch the meaning and pronunciation of any English word by simply selecting it on a webpage. Designed to work seamlessly with a minimalist dark UI, Sabdartha uses the [Free Dictionary API](https://dictionaryapi.dev/) and supports audio playback of pronunciation.
 
----
-
 ## ⚙️ Features
 
 - 📚 Instant definitions from DictionaryAPI
@@ -60,4 +58,10 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/Pranzal360/Sabdartha-Firfox.git
+
+
+--- ## 🙏 Credits 
+
+Huge thanks to [@suyog](https://github.com/0suyog) for helping and inspiring this project!
+
 
