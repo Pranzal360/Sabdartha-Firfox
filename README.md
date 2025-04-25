@@ -58,10 +58,11 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/Pranzal360/Sabdartha-Firfox.git
-
+```
 
 ## 🙏 Credits 
 
 Huge thanks to [@suyog](https://github.com/0suyog) for helping and inspiring this project!
+
 
 
