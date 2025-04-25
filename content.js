@@ -19,10 +19,6 @@ const getMeaning = async (word) => {
     return 0;
 };
 
-// Enable dark mode
-let body = document.body;
-body.style.backgroundColor = "#000";
-body.style.color = "#fff";
 
 // Function to get selected text from the page
 let getSelectionText = () => {
